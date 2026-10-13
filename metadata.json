@@ -1,0 +1,8 @@
+{
+    "name": "Iron Man — Real-Time AI Power Suit (Mark LXXXV)",
+    "description": "Real-time Iron Man augmented reality power suit with MediaPipe Pose/Face/Hand tracking, Three.js 3D PBR metallic armor, 10-stage finger-snap assembly, motorized faceplate, palm repulsors, eye lasers, hex shield, flight thrusters, and J.A.R.V.I.S. voice control.",
+    "requestFramePermissions": [
+          "camera",
+          "microphone"
+    ]
+}
